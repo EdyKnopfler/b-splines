@@ -1,0 +1,4 @@
+# PyCharm config folders and files
+.idea\
+venv
+__pycache__
